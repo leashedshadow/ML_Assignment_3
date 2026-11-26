@@ -1,0 +1,1 @@
+{"pred_b": "MLP: accuracy essentially unchanged by a fixed pixel permutation (a permutation of inputs is absorbed by its first layer; change within seed noise ~ +-1pt). CNN: large drop, to roughly MLP level or below, because its locality/weight-sharing prior no longer matches the data."}

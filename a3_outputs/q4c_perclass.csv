@@ -1,0 +1,11 @@
+,svm_recall,cluster_concentration
+airplane,0.554,0.298
+automobile,0.623,0.276
+bird,0.38,0.459
+cat,0.334,0.271
+deer,0.389,0.479
+dog,0.388,0.363
+frog,0.533,0.499
+horse,0.523,0.29
+ship,0.609,0.562
+truck,0.582,0.409

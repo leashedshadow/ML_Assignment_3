@@ -1,0 +1,17 @@
+{
+ "roll": "M26ECM510",
+ "seed": 26510,
+ "d_sel": 512,
+ "sigma": 0.1,
+ "svm": {
+  "kernel": "rbf",
+  "C": 10.0,
+  "test_acc": 0.4915
+ },
+ "clustering": {
+  "method": "kmeans",
+  "K": 6,
+  "ARI": 0.06251524338993726,
+  "NMI": 0.09712159886047497
+ }
+}

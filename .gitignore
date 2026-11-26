@@ -3,3 +3,6 @@ data/
 __pycache__/
 .idea/
 *.pyc
+a3_outputs/ckpt/
+*.pt
+*.pkl
